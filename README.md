@@ -1,4 +1,3 @@
-rug-ba
-======
+# Ruby User Group Nürnberg
 
-Ruby User Group Bamberg
+http://rug-n.de
